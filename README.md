@@ -1,2 +1,2 @@
-# android-incrementor--app
-Simple incrementor app
+# Android Incrementor App
+  Simple incrementor app
